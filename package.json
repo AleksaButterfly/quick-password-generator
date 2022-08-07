@@ -1,6 +1,6 @@
 {
   "name": "quick-password-generator",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Generate quick and secure passwords.",
   "keywords": [
     "quick",
@@ -25,7 +25,7 @@
   "license": "MIT",
   "private": false,
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=14.0.0"
   },
   "engineStrict": true
 }
