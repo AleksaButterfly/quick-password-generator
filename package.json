@@ -1,0 +1,31 @@
+{
+  "name": "quick-password",
+  "version": "1.0.0",
+  "description": "Generate quick and secure passwords.",
+  "keywords": [
+    "quick",
+    "secure",
+    "password",
+    "passwords"
+  ],
+  "homepage": "https://github.com/AleksaButterfly/quick-password",
+  "bugs": {
+    "url": "https://github.com/AleksaButterfly/quick-password/issues",
+    "email": "aleksaprebiracevicorona@gmail.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AleksaButterfly/quick-password.git"
+  },
+  "author": "Aleksa Prebiracevic <aleksaprebiracevicorona@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "engineStrict": true
+}
