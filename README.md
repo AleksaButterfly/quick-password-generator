@@ -2,19 +2,7 @@
 
 Quick Password Generator is a library for generating quick, secure and reliable passwords.
 
-## Usage
-
-```
-const generatePassword = require('quick-password-generator');
-
-// Pass the length
-const password = generatePassword(10);
-
-// 'uEyMTw32v9'
-console.log(password);
-```
-
-### Installing
+## Installing
 
 ```
 $ npm install quick-password-generator
@@ -26,9 +14,18 @@ or
 $ yarn add quick-password-generator
 ```
 
-    ## Deployment
+## Usage
 
-    Add additional notes about how to deploy this on a live system
+```javascript
+// Require
+const generatePassword = require("quick-password-generator");
+
+// Pass the length
+const password = generatePassword(10);
+
+// 'uEyMTw32v9'
+console.log(password);
+```
 
 ## Contributing
 
