@@ -1,6 +1,6 @@
 {
-  "name": "quick-password",
-  "version": "1.0.0",
+  "name": "quick-password-generator",
+  "version": "1.0.1",
   "description": "Generate quick and secure passwords.",
   "keywords": [
     "quick",
