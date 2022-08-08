@@ -2,6 +2,8 @@
 
 Quick Password Generator is a library for generating quick, secure and reliable passwords.
 
+![Quick Password Generator](https://nodei.co/npm/quick-password-generator.png)
+
 ## Installing
 
 ```
